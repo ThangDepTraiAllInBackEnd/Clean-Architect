@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\bin\Debug\net6.0\CommonLibrary.dll
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\bin\Debug\net6.0\DatabaseLayer.dll
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\bin\Debug\net6.0\CommonLibrary.pdb
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\bin\Debug\net6.0\DatabaseLayer.pdb
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll

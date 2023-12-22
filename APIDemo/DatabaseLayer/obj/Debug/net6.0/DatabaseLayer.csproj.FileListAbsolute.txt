@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.deps.json
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.dll
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.pdb
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\bin\Debug\net6.0\CommonLibrary.dll
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\bin\Debug\net6.0\CommonLibrary.pdb
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.csproj.CopyComplete
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.dll
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\obj\Debug\net6.0\refint\DatabaseLayer.dll
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.pdb
+C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\DatabaseLayer\obj\Debug\net6.0\ref\DatabaseLayer.dll
