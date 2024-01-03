@@ -22,6 +22,12 @@ namespace APIDemo.Controllers
 			_customerService = customerService;
 		}
 
+		/// <summary>
+		/// get all customer from database
+		/// </summary>
+		/// <returns>Customer List with Json format || null</returns>
+		///  created by: Nguyễn Thiện Thắng
+		///  created_at: 2023/11/17
 		[HttpGet]
 		public IActionResult Get()
 		{
@@ -33,6 +39,12 @@ namespace APIDemo.Controllers
 			return StatusCode(201, customers);
 		}
 
+		/// <summary>
+		/// recevice Customer and insert to Database 
+		/// </summary>
+		/// <returns>Result with JSON format</returns>
+		///  created by: Nguyễn Thiện Thắng
+		///  created_at: 2023/12/2
 		[HttpPost]
 		public IActionResult Post(Customer customer)
 		{

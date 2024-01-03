@@ -25,18 +25,39 @@ namespace DatabaseLayer
 			_connection = new MySqlConnection(connectionString);
 		}
 
+		/// <summary>
+		///  Delete entity by Id
+		/// </summary>
+		/// <param name="item">Entity to Delete </param>
+		/// <returns>nummber of record affected</returns>
+		///  created by: Nguyễn Thiện Thắng
+		///  created_at: 2023/11/17	
 		public int Delete(Entity item)
 		{
 			throw new NotImplementedException();
 		}
 
-		public List<Entity> GetAll()	
+
+		// <summary>
+		/// Get all record in a table in Database 
+		/// </summary>
+		/// <returns>An Entity List with type T or null if not found</returns>
+		///  created by: Nguyễn Thiện Thắng
+		///  created_at: 2023/11/17	
+		public List<Entity> GetAll()
 		{
 			var sql = $"SELECT * FROM {_tableName}";
 			var customers = _connection.Query<Entity>(sql);
 			return customers.ToList();
 		}
 
+		/// <summary>
+		/// insert record in to table in Database 
+		/// </summary>
+		/// <param name="item">Entity to insert </param>
+		/// <returns>nummber of record affected</returns>
+		///  created by: Nguyễn Thiện Thắng
+		/// created_at: 2023/11/17	
 		public int Insert(Entity item)
 		{
 			var colNameList = "";
@@ -59,7 +80,13 @@ namespace DatabaseLayer
 			var res = _connection.Execute(sqlCommand, item);
 			return res;
 		}
-
+		/// <summary>
+		///  Update entity by Id
+		/// </summary>
+		/// <param name="item">Entity to Update </param>
+		/// <returns>nummber of record affected</returns>
+		///  created by: Nguyễn Thiện Thắng
+		///  created_at: 2023/11/17	
 		public int Update(Entity item)
 		{
 			throw new NotImplementedException();

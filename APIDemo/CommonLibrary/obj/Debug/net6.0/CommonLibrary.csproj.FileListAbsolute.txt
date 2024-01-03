@@ -10,3 +10,15 @@ C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\CommonLibrary\obj\Debug\net6.0\
 C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\CommonLibrary\obj\Debug\net6.0\refint\CommonLibrary.dll
 C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\CommonLibrary\obj\Debug\net6.0\CommonLibrary.pdb
 C:\Users\ASUS\Documents\Misa\BE\API\DEMO\APIDemo\CommonLibrary\obj\Debug\net6.0\ref\CommonLibrary.dll
+C:\Users\ASUS\Documents\Misa\git\CLean\Clean-Architect\APIDemo\CommonLibrary\bin\Debug\net6.0\CommonLibrary.deps.json
+C:\Users\ASUS\Documents\Misa\git\CLean\Clean-Architect\APIDemo\CommonLibrary\bin\Debug\net6.0\CommonLibrary.dll
+C:\Users\ASUS\Documents\Misa\git\CLean\Clean-Architect\APIDemo\CommonLibrary\bin\Debug\net6.0\CommonLibrary.pdb
+C:\Users\ASUS\Documents\Misa\git\CLean\Clean-Architect\APIDemo\CommonLibrary\obj\Debug\net6.0\CommonLibrary.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Misa\git\CLean\Clean-Architect\APIDemo\CommonLibrary\obj\Debug\net6.0\CommonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\Misa\git\CLean\Clean-Architect\APIDemo\CommonLibrary\obj\Debug\net6.0\CommonLibrary.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Misa\git\CLean\Clean-Architect\APIDemo\CommonLibrary\obj\Debug\net6.0\CommonLibrary.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Misa\git\CLean\Clean-Architect\APIDemo\CommonLibrary\obj\Debug\net6.0\CommonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Misa\git\CLean\Clean-Architect\APIDemo\CommonLibrary\obj\Debug\net6.0\CommonLibrary.dll
+C:\Users\ASUS\Documents\Misa\git\CLean\Clean-Architect\APIDemo\CommonLibrary\obj\Debug\net6.0\refint\CommonLibrary.dll
+C:\Users\ASUS\Documents\Misa\git\CLean\Clean-Architect\APIDemo\CommonLibrary\obj\Debug\net6.0\CommonLibrary.pdb
+C:\Users\ASUS\Documents\Misa\git\CLean\Clean-Architect\APIDemo\CommonLibrary\obj\Debug\net6.0\ref\CommonLibrary.dll

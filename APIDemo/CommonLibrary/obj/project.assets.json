@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\Misa\\BE\\API\\DEMO\\APIDemo\\CommonLibrary\\CommonLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\Misa\\git\\CLean\\Clean-Architect\\APIDemo\\CommonLibrary\\CommonLibrary.csproj",
       "projectName": "CommonLibrary",
-      "projectPath": "C:\\Users\\ASUS\\Documents\\Misa\\BE\\API\\DEMO\\APIDemo\\CommonLibrary\\CommonLibrary.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\Misa\\git\\CLean\\Clean-Architect\\APIDemo\\CommonLibrary\\CommonLibrary.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Documents\\Misa\\BE\\API\\DEMO\\APIDemo\\CommonLibrary\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\Misa\\git\\CLean\\Clean-Architect\\APIDemo\\CommonLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
